@@ -24,6 +24,7 @@
 				<li><a href="index.php">Beranda</a></li>
 				<li><a href="admin.php">Admin</a></li>
 				<li><a href="profil.php">Profil</a></li>
+				<li><a href="profil.php">help</a></li>
 				<li>Hubungi Kami</li>
 
 
